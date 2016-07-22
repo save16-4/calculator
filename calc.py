@@ -11,4 +11,4 @@ def mul(num1, num2):
 	# Write code mul function
 
 def div(num1, num2):
-	# Write code div function
+	return num1 / num2
