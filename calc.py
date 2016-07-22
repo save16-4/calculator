@@ -22,3 +22,8 @@ def sub(num1, num2):
     return num1 - num2
 
 calc()
+def mul(num1, num2):
+    # Write code mul function
+
+def div(num1, num2):
+    return num1 / num2
