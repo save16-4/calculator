@@ -32,6 +32,6 @@ def div(num1, num2):
         if num2 :
             return num1 / num2
         else :
-            print("You can't divide with 0!")
+            print("You can't divide with 0! Please do again.")
             return None
 calc()
